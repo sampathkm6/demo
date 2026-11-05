@@ -1,1 +1,0 @@
-# gaf-service-image
